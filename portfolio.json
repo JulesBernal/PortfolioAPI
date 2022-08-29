@@ -1,0 +1,33 @@
+{
+    "projects": [
+        {
+            "name": "Ecommerce",
+            "url" : "https://shop.julesbernal.com/",
+            "img" : "",
+            "repo": "",
+            "description": ""
+        },
+        {
+            "name": "Code for Justice",
+            "url" : "https://justokes1.github.io/code4Justice/",
+            "img" : "",
+            "repo": "https://github.com/Justokes1/code4Justice",
+            "description": ""
+        },
+        {
+            "name": "Hope Hacks",
+            "url" : "https://thinkhub.herokuapp.com/",
+            "img" : "",
+            "repo": "https://github.com/Nothier96/hopehack-1",
+            "description": ""
+        },
+        {
+            "name": "Fishing Game",
+            "url" : "",
+            "img" : "",
+            "repo": "https://github.com/JulesBernal/Fishing-Game",
+            "description": "Fishing game",
+            "api": ""
+        }
+    ]
+}
