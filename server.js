@@ -10,5 +10,8 @@ app.use(function(req, res, next) {
     next();
 });
 app.get('/*', (req, res) => {
-    res.sendFile(portfolio.json);
+    res.send(info);
 });
+app.listen(PORT, () => {
+    console.log(`Server listening on ${PORT}`);
+  });
