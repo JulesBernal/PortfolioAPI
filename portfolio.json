@@ -3,21 +3,21 @@
         {
             "name": "Ecommerce",
             "url" : "https://shop.julesbernal.com/",
-            "img" : "./ecom.png",
+            "img" : "/ecom.png",
             "repo": "https://github.com/JulesBernal/ecommerce-v2",
             "description": "Ecommerce for fictional fruits from the hit anime, \"One Piece\"."
         },
         {
             "name": "Freedom Alliance",
             "url" : "https://justokes1.github.io/code4Justice/",
-            "img" : "./justice.png",
+            "img" : "/justice.png",
             "repo": "https://github.com/Justokes1/code4Justice",
             "description": "Informing of the structural concerns in the criminal justice system."
         },
         {
             "name": "Think Hub",
             "url" : "https://thinkhub.herokuapp.com/",
-            "img" : "./think.jpg",
+            "img" : "/think.jpg",
             "repo": "https://github.com/Nothier96/hopehack-1",
             "description": "Educational offering website, featuring third-party and first-party APIs."
         },
